@@ -1,0 +1,34 @@
+{
+  "name": "laravel",
+  "displayName": "LaraDark",
+  "description": "Laravel Dark Color Theme",
+  "version": "1.0.2",
+  "publisher": "erenkucukersoftware",
+  "engines": {
+    "vscode": "^1.18.0"
+  },
+  "keywords": [
+    "laravel",
+    "laravel theme",
+    "laravel dark theme",
+    "php theme",
+    "dark theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erenkucukersoftware/vscode-laradark-laravel-theme.git"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Laravel",
+        "uiTheme": "vs",
+        "path": "./themes/Laravel-color-theme.json"
+      }
+    ]
+  }
+}
