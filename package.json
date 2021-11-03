@@ -2,7 +2,7 @@
   "name": "laravel",
   "displayName": "LaraDark",
   "description": "Laravel Dark Color Theme",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "erenkucukersoftware",
   "engines": {
     "vscode": "^1.18.0"

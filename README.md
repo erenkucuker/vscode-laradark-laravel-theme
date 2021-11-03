@@ -1,6 +1,6 @@
 # Laradark VsCode Semantic Color Theme
 
-![Laradark Icon](/icon.png)
+![Laradark Icon](https://github.com/erenkucukersoftware/vscode-laradark-laravel-theme/raw/main/icon.png)
 
 
 
@@ -8,24 +8,26 @@
 
 ### PHP
 
-![PHP syntax highlighting](screenshots/php.png)
+![PHP syntax highlighting](https://github.com/erenkucukersoftware/vscode-laradark-laravel-theme/raw/main/screenshots/php.png)
 
 ### Blade
 
-![Blade syntax highlighting](screenshots/blade.png)
+![Blade syntax highlighting](https://github.com/erenkucukersoftware/vscode-laradark-laravel-theme/raw/main/screenshots/blade.png)
 
 
 ### Vue
 
-![Vue syntax highlighting](screenshots/vue.png)
+![Vue syntax highlighting](https://github.com/erenkucukersoftware/vscode-laradark-laravel-theme/raw/main/screenshots/vue.png)
 
 ### JSON
 
-![JSON syntax highlighting](screenshots/json.png)
+![JSON syntax highlighting](https://github.com/erenkucukersoftware/vscode-laradark-laravel-theme/raw/main/screenshots/json.png)
 
 
 
+## Suggestions
 
+Suggested with using [Cascadia Code Font](https://github.com/microsoft/cascadia-code) font family.
 
 ## Main Focus
 Projects main focus is highlighting syntax according to Laravel Core concepts.It's making  the code more readable and easy to understand.
