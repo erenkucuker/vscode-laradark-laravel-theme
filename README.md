@@ -2,7 +2,8 @@
 
 ![Laradark Icon](https://github.com/erenkucukersoftware/vscode-laradark-laravel-theme/raw/main/icon.png)
 
-
+## Main Focus
+Projects main focus is highlighting syntax according to Laravel Core concepts.It's making  the code more readable and easy to understand.
 
 ## Screenshots
 
@@ -28,9 +29,6 @@
 ## Suggestions
 
 Suggested with using [Cascadia Code Font](https://github.com/microsoft/cascadia-code) font family.
-
-## Main Focus
-Projects main focus is highlighting syntax according to Laravel Core concepts.It's making  the code more readable and easy to understand.
 
 Laravel is a Color Theme for Visual Studio Code forked from Michael Dyrynda original theme for sublime text. It is inspired by the syntax highlighting found in the official [Laravel documentation](https://laravel.com/docs).
 
